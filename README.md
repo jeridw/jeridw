@@ -2,7 +2,7 @@
 
 I'm Jeri, a recent Data Science Graduate from 🇬🇧 London, England.
 
-✨ About me in 20 Secs ✨
+✨ About me in 30 Secs ✨
 
 - 📒 Accounting and Finance background with a degree and 2 years of professional experience.
 - 🌱 Transitioned to Tech with a degree in Data Science and Fintech in 2023.
